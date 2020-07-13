@@ -1,0 +1,48 @@
+this is the git information text
+
+all are in cmd
+
+create the new file in touch filename.fileExtensation 
+this will create the new file
+
+
+open the any file by cmd type code and file name with fileExtensation
+
+
+adding the file git add file name with fileExtensation
+ex git add index.html
+
+
+commit the file git commit -m "commint massage here"
+adding and commit at a time 
+git commit -am "commit massage"
+
+
+check the status
+git status
+
+open the any file 
+cat and file name
+ex cat index.html
+
+
+check branches
+git branch
+
+creating branch
+git checkout -b branchName
+
+switch branch git checkout branch name
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+
+
+getting from github server 
+git pull
+
+
+
