@@ -1,0 +1,11 @@
+// install the sass and run the comand 
+// scss compiler on commandline 
+// sass variable.scss variable.css
+$color: orange;
+ul {
+    color: $color;
+}
+
+ol {
+    color: $color;
+}
